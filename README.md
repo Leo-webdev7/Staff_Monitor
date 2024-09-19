@@ -10,6 +10,7 @@
 * [Contribution Guidelines](#contribution-guidelines)
 * [Test Instructions](#test-instructions)
 * [License](#license)
+* [Links](#links)
 * [Questions](#questions)
 
 ## Description
@@ -51,6 +52,12 @@ If you’ve written tests using a framework like Jest or Mocha, you can run the 
 ## License
 
 This application is covered under the MIT license.
+
+## Links 
+
+Walkthrough Video - 
+
+Github Repository - https://github.com/Leo-webdev7/Staff_Monitor
 
 ## Questions
 
