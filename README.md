@@ -55,7 +55,7 @@ This application is covered under the MIT license.
 
 ## Links 
 
-Walkthrough Video - 
+Walkthrough Video - https://drive.google.com/file/d/1zQiDqBv6XHuwMNKDDrcKZQ1TM6WhgJMT/view?usp=drive_link
 
 Github Repository - https://github.com/Leo-webdev7/Staff_Monitor
 
