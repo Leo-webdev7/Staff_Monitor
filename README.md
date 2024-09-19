@@ -32,7 +32,7 @@ Once the application is running, you will see a main menu that allows you to per
 
 4. Add a department: Prompts for the department name and adds it to the database.
 
-5 .Add a role: Prompts for the role name, salary, and department, then adds it to the database.
+5. Add a role: Prompts for the role name, salary, and department, then adds it to the database.
 
 6. Add an employee: Prompts for the employee’s first name, last name, role, and manager, and adds the employee to the database.
 
