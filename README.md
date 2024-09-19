@@ -24,6 +24,17 @@ Staff Monitor is a command-line application for managing departments, roles, and
 
 Once the application is running, you will see a main menu that allows you to perform the following actions:
 
+? What would you like to do?
+> View all departments
+> View all roles 
+> View all employees
+> Add a department
+> Add a role
+> Add an employee
+> Update an employee role
+> Exit
+
+
 ## Contribution Guidelines
 
 
