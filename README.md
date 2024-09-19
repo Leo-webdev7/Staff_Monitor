@@ -42,12 +42,6 @@ Once the application is running, you will see a main menu that allows you to per
 
 7. Update an employee role: Prompts you to select an employee and update their role.
 
-
-
-## Contribution Guidelines
-
-
-
 ## Test Instructions
 
 If you’ve written tests using a framework like Jest or Mocha, you can run the tests using the following command: npm test
